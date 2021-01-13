@@ -11,7 +11,7 @@ After forking:
 2.  cd into the folder for the cloned repository
 3.  run the following in command line:
 ```
-git remote add upstream https://github.com/learn-co-students/110920-pt-ds
+git remote add upstream https://github.com/learn-co-students/011121-pt-ds.git
 ``` 
 
 ## Update your files
